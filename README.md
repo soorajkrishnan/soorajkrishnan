@@ -18,5 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soorajkrishnan&show_icons=true&theme=dark&locale=en&layout=compact" alt="soorajkrishnan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soorajkrishnan&show_icons=true&locale=en" alt="soorajkrishnan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soorajkrishnan&show_icons=true&theme=dark&locale=en" alt="soorajkrishnan" /></p>
 
